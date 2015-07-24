@@ -3339,7 +3339,7 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source>%1 has left the room</source>
-    <target>%1 покинул комнату</target>
+    <target>%1 обиделся</target>
 </phrase>
 <phrase>
     <source>%3 has joined the room as %1 and %2</source>
@@ -3805,7 +3805,7 @@ Accept invitation?</source>
 </phrase>
 <phrase>
     <source> has left the room</source>
-    <target> покинул комнату</target>
+    <target> обиделся</target>
 </phrase>
 <phrase>
     <source> now is</source>
